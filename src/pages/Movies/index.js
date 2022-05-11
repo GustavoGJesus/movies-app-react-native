@@ -5,7 +5,7 @@ function Movies(){
     return(
         <View>
             <Text>
-                Tela movies
+                Tela Movies
             </Text>
         </View>
     )
